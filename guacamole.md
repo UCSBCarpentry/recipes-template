@@ -6,3 +6,7 @@
 ## Instructions
 - buy avocados
 - crush avocados
+- add lime juice
+- add salt
+- mix well
+- enjoy with chips
