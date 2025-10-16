@@ -38,3 +38,4 @@ Store in an airtight container at room temperature for up to one week.
 ## Notes
 - For extra crunch, bake an additional 10 minutes.  
 - Add nuts or drizzle with melted chocolate for variations.
+- Enjoy!
