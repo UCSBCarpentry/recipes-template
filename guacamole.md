@@ -4,6 +4,6 @@
 * lime (0.64)
 * salt (2)
 ## Instructions
-<<<<<<< HEAD
 - purchase da shi
 - crush da shi
+- eat da shi
