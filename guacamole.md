@@ -4,3 +4,5 @@
 * lime (0.64)
 * salt (2)
 ## Instructions
+- purchase da shi
+- make da shi
