@@ -5,3 +5,4 @@
 * salt (2)
 ## Instructions
 - buy avocados
+- crush the avocados
