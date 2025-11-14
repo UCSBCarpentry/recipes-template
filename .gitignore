@@ -1,2 +1,4 @@
 *.png
 receipts/
+.Rproj.user
+*.Rproj
