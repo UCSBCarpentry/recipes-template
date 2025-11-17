@@ -4,3 +4,6 @@
 * lime (0.64)
 * salt (2)
 ## Instructions
+- purchase da shi
+- crush da shi
+- eat da shi
